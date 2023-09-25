@@ -1,0 +1,7 @@
+rm -f .env
+cat <<EOF >apps/standup/balenaVariables.json
+{
+    "BALENA_SUPERVISOR_ADDRESS": "$BALENA_SUPERVISOR_ADDRESS",
+    "BALENA_SUPERVISOR_API_KEY": "$BALENA_SUPERVISOR_API_KEY"
+}
+EOF

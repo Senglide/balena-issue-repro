@@ -1,0 +1,59 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+.next
+.turbo
+
+# production
+build
+out
+
+# misc
+.DS_Store
+*.pem
+.vscode
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# .env files
+.env*
+!.env.e2e
+!.env.example
+!.env.test
+
+# docker
+.docker
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# locales
+/**/locales/**/*.js
+!/**/locales/setupLocales.js
+sitemap*.xml
+
+# backups
+*.bacpac
+
+.eslintcache
+/poc/react-query-offline-mode/node_modules/
+
+# jetbrains
+.idea
+
+
+# Sentry Auth Token
+*.sentryclirc

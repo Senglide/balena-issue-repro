@@ -1,0 +1,516 @@
+{
+  "Welcome to Dripl": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/login/page.tsx",
+        40
+      ]
+    ]
+  },
+  "RP serial": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/_components/RefillPointsPage.tsx",
+        24
+      ]
+    ]
+  },
+  "Search a refill point": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/_components/RefillPointsPage.tsx",
+        35
+      ]
+    ]
+  },
+  "Register new RP": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/_components/RefillPointsPage.tsx",
+        44
+      ],
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        56
+      ]
+    ]
+  },
+  "Install RP": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/_components/RefillPointsPage.tsx",
+        51
+      ],
+      [
+        "../../apps/admin/src/app/machines/install/index.tsx",
+        50
+      ]
+    ]
+  },
+  "Search a machine": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/_components/ChooseMachineForm.tsx",
+        20
+      ],
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        67
+      ]
+    ]
+  },
+  "Previous step": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/_components/InstallMachineDrawerNavigationButtons.tsx",
+        27
+      ]
+    ]
+  },
+  "Confirm": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/_components/InstallMachineDrawerNavigationButtons.tsx",
+        36
+      ],
+      [
+        "../../apps/admin/src/app/machines/install/index.tsx",
+        23
+      ]
+    ]
+  },
+  "Next step": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/_components/InstallMachineDrawerNavigationButtons.tsx",
+        38
+      ]
+    ]
+  },
+  "Choose RP": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/index.tsx",
+        14
+      ]
+    ]
+  },
+  "Assign client": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/index.tsx",
+        17
+      ]
+    ]
+  },
+  "Add data": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/install/index.tsx",
+        20
+      ]
+    ]
+  },
+  "Serial number": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        96
+      ]
+    ]
+  },
+  "A valid serial number is exactly 7 digits long": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        98
+      ]
+    ]
+  },
+  "Enter serial number": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        117
+      ]
+    ]
+  },
+  "Please choose an RP and fill in a serial number": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        125
+      ]
+    ]
+  },
+  "Register": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/_components/RegisterMachineDrawer.tsx",
+        134
+      ]
+    ]
+  },
+  "RP successfully registered": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/app/machines/register/index.tsx",
+        50
+      ]
+    ]
+  },
+  "Unauthorized. Redirecting...": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/components/App.tsx",
+        38
+      ]
+    ]
+  },
+  "Dashboard": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/components/layout/PageNavigation.tsx",
+        9
+      ]
+    ]
+  },
+  "Machines": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/admin/src/components/layout/PageNavigation.tsx",
+        13
+      ]
+    ]
+  },
+  "URL:": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/installation/_components/MachineInfo.tsx",
+        14
+      ]
+    ]
+  },
+  "admin.dripl.be": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/installation/_components/MachineInfo.tsx",
+        17
+      ]
+    ]
+  },
+  "NAME:": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/installation/_components/MachineInfo.tsx",
+        22
+      ]
+    ]
+  },
+  "WISPY-RAINFALL": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/installation/_components/MachineInfo.tsx",
+        25
+      ]
+    ]
+  },
+  "Setup this machine in the Dripl Portal": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/installation/_components/Title.tsx",
+        12
+      ]
+    ]
+  },
+  "Stop": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/test/_components/TestListItem/_components/TestButton.tsx",
+        27
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/TestListItem/_components/TestButton.tsx",
+        28
+      ]
+    ]
+  },
+  "Test": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/test/_components/TestListItem/_components/TestButton.tsx",
+        46
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/TestListItem/_components/TestButton.tsx",
+        45
+      ]
+    ]
+  },
+  "Test Driptray": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Driptray.tsx",
+        14
+      ]
+    ]
+  },
+  "Driptray installation": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Driptray.tsx",
+        18
+      ]
+    ]
+  },
+  "Driptray Level": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Driptray.tsx",
+        23
+      ]
+    ]
+  },
+  "Test this machine": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Header.tsx",
+        9
+      ]
+    ]
+  },
+  "Test NFC": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/NFC.tsx",
+        14
+      ]
+    ]
+  },
+  "Read NFC": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/NFC.tsx",
+        18
+      ]
+    ]
+  },
+  "Test Pump": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        14
+      ]
+    ]
+  },
+  "Flavour pump 1": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        19
+      ]
+    ]
+  },
+  "Motor draait 20 toeren, 60 pulses nodig": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        21
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        30
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        39
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        48
+      ]
+    ]
+  },
+  "Flavour pump 2": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        28
+      ]
+    ]
+  },
+  "Flavour pump 3": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        37
+      ]
+    ]
+  },
+  "Flavour pump 4": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Pump.tsx",
+        46
+      ]
+    ]
+  },
+  "Test water": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        15
+      ]
+    ]
+  },
+  "Room, still water": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        19
+      ]
+    ]
+  },
+  "Tapt voor 10sec water": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        20
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        27
+      ],
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        34
+      ]
+    ]
+  },
+  "Cold, still water": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        26
+      ]
+    ]
+  },
+  "Cold, sparkling": {
+    "translation": "",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/testMachine/_components/Water.tsx",
+        33
+      ]
+    ]
+  },
+  "Shared Translation": {
+    "translation": "Gedeelde vertaling",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/page.tsx",
+        24
+      ]
+    ]
+  },
+  "Translation Standup": {
+    "translation": "Vertaling standup",
+    "comments": [],
+    "origin": [
+      [
+        "../../apps/standup/src/app/page.tsx",
+        21
+      ]
+    ]
+  }
+}

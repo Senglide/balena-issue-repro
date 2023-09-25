@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Sensei;
+    src: local("Sensei"), url(/fonts/Sensei-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 100 900; /* Variable font weight range */
+    src: local('Open Sans Variable'), url(/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype');
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}

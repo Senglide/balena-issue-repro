@@ -1,0 +1,17 @@
+version: '2'
+
+services:
+    standup:
+        build:
+            context: .
+            dockerfile: ./apps/standup/Dockerfile
+        restart: always
+        ports:
+            - 3000:3000
+        labels:
+            io.balena.features.supervisor-api: '1'
+
+    browser:
+        restart: always
+        privileged: true
+        image: bh.cr/balenalabs/browser-aarch64

@@ -12,6 +12,7 @@
     },
     "dependencies": {
         "@lingui/core": "^4.4.0",
-        "make-plural": "^7.3.0"
+        "make-plural": "^7.3.0",
+        "@dripl/constants": "workspace:*"
     }
 }

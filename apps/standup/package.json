@@ -8,10 +8,10 @@
         "lint": "next lint"
     },
     "dependencies": {
-        "@dripl/components": "^1.0.0",
-        "@dripl/config": "*",
-        "@dripl/constants": "^1.0.0",
-        "@dripl/locales": "^1.0.0",
+        "@dripl/components": "workspace:*",
+        "@dripl/config": "workspace:*",
+        "@dripl/constants": "workspace:*",
+        "@dripl/locales": "workspace:*",
         "@lingui/react": "^4.4.0",
         "@serialport/binding-mock": "^10.2.2",
         "@serialport/bindings-cpp": "^12.0.1",

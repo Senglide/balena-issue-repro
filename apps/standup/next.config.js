@@ -26,5 +26,5 @@ module.exports = {
     experimental: {
         typedRoutes: true,
     },
-    output: 'standalone',
+    // output: 'standalone',
 }
